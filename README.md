@@ -38,10 +38,11 @@ The project, developed in `main.ipynb`, presents a systematic approach to handli
 ## Installation
 To set up the environment, use the following commands:
 
+```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 pip install -r requirements.txt
-
+```
 
 Alternatively, you can manually install dependencies:
 

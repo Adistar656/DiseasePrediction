@@ -46,30 +46,30 @@ pip install -r requirements.txt
 
 Alternatively, you can manually install dependencies:
 
+```bash
 pip install numpy pandas scipy matplotlib seaborn scikit-learn imbalanced-learn
+```
 
 
 ## Usage
 Open the Jupyter Notebook and execute all cells:
 
+```bash
 jupyter notebook main.ipynb
-
+```
 
 Run analyses, visualize insights, and experiment with various models.
 
 ## Project Structure
 
+```bash
 .
 ├── main.ipynb # Jupyter notebook containing the complete project
 ├── requirements.txt # Python dependencies (optional)
 └── README.md # Project documentation
+```
 
 
 ## Results
 The notebook outputs detailed analysis results, visualizations, and model performance metrics. Modify parameters or try different algorithms to improve performance.
 
-## Contributing
-Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request with detailed changes.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
